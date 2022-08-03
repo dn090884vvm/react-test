@@ -1,12 +1,12 @@
-import { Counter } from './Counter/Counter';
-import { Counter1 } from './Counter/Counter1';
-import { CounterWithMethod } from './Counter/CounterWithMethod';
-import { Toggle } from './Switcher/Switcher';
-import { App1 } from './UpState/UpState';
-import { LoginForm } from './Form/Form1Uncontrolled';
-import { SignUpForm } from './Form/FormComplicated';
-import { SignUpFormExtended } from './Form/FormComplicatedExtended';
-import Axios from './Axios/Axios';
+// import { Counter } from './Counter/Counter';
+// import { Counter1 } from './Counter/Counter1';
+// import { CounterWithMethod } from './Counter/CounterWithMethod';
+// import { Toggle } from './Switcher/Switcher';
+// import { App1 } from './UpState/UpState';
+// import { LoginForm } from './Form/Form1Uncontrolled';
+// import { SignUpForm } from './Form/FormComplicated';
+// import { SignUpFormExtended } from './Form/FormComplicatedExtended';
+// import Axios from './Axios/Axios';
 
 export const App = () => {
   return (

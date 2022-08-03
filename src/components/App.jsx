@@ -20,7 +20,7 @@ export const App = () => {
       {/* <SignUpForm onSubmit={values => console.log(values)} /> */}
       {/* <SignUpForm onSubmit={values => values} /> */}
       {/* <SignUpFormExtended onSubmit={values => console.log(values)} /> */}
-      <Axios />
+      {/* <Axios /> */}
     </>
   );
 };
